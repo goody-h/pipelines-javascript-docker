@@ -1,0 +1,16 @@
+apiVersion : apps/v1beta1
+kind: Deployment
+metadata:
+  name: goodyhpipelinesjavascriptdocker 
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: goodyhpipelinesjavascriptdocker 
+    spec:
+      containers:
+        - name: goodyhpipelinesjavascriptdocker 
+          image: covid19reg.azurecr.io/goodyhpipelinesjavascriptdocker
+          ports:
+          - containerPort: 8080
