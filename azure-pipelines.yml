@@ -11,7 +11,7 @@ resources:
 variables:
 
   # Container registry service connection established during pipeline creation
-  dockerRegistryServiceConnection: "7864298b-55bd-41e2-8a20-e8c3098ec83c"
+  dockerRegistryServiceConnection: $(cpcode)
   imageRepository: 'goodyhpipelinesjavascriptdocker'
   containerRegistry: $(coregist)
   dockerfilePath: '**/Dockerfile'
