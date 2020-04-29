@@ -1,6 +1,9 @@
 
 # Contributing
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c68af5733bf04b3bb7e11ac5f6cbdeb0)](https://app.codacy.com/manual/goody-h/pipelines-javascript-docker?utm_source=github.com&utm_medium=referral&utm_content=goody-h/pipelines-javascript-docker&utm_campaign=Badge_Grade_Dashboard)
+
+
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
