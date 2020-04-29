@@ -1,4 +1,3 @@
-
 # Contributing
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c68af5733bf04b3bb7e11ac5f6cbdeb0)](https://app.codacy.com/manual/goody-h/pipelines-javascript-docker?utm_source=github.com&utm_medium=referral&utm_content=goody-h/pipelines-javascript-docker&utm_campaign=Badge_Grade_Dashboard)
@@ -16,7 +15,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-# Legal Notices
+## Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
 in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
